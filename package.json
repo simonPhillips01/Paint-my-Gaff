@@ -1,0 +1,22 @@
+{
+  "name": "paint-my-crib",
+  "version": "1.0.0",
+  "description": "Landing page for paint my crib",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonPhillips01/Paint-my-Crib.git"
+  },
+  "author": "Simon Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonPhillips01/Paint-my-Crib/issues"
+  },
+  "homepage": "https://github.com/simonPhillips01/Paint-my-Crib#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
