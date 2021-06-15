@@ -11,6 +11,13 @@
         padding: 2rem;
     }
 
+    &__text {
+        padding: 2rem;
+        color: $color-black;
+        font-size: 3rem;
+        font-style: italic;
+    }
+
     &__icon {
         font-size: 6rem;
         margin-bottom: .5rem;
