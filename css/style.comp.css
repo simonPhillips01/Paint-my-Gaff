@@ -284,7 +284,7 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: linear-gradient(to right bottom, #212527, #000), url(../img/front-door.jpg); }
+      background-image: linear-gradient(to right bottom, #212527, #000), url(../img/Front-door.jpg); }
     .card__picture--2 {
       background-image: linear-gradient(to right bottom, #212527, #000), url(../img/front-house.jpg); }
     .card__picture--3 {
@@ -545,7 +545,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 75%;
-    background-color: #fff;
+    background-color: #212527;
     box-shadow: 0 2rem 4rem rgba(33, 37, 39, 0.2);
     border-radius: 3px;
     display: table;
